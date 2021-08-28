@@ -6,5 +6,5 @@ let number2=Int( readLine()!)!
 print("your given number:", number2)
 
 func add(int1: Int, int2: Int) -> Int{
-    return 
+    return int1 + int2
 }
