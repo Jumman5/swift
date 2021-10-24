@@ -1,4 +1,6 @@
 import Foundation
+import swiftUI
+
 
 func factorial(a: Int) -> Int{
     let n = a
